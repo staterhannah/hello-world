@@ -29,6 +29,8 @@ Third | Wall-E
 - [x] Find a Masters Program and Grad School I Like
 - [ ] Survive Until Graduation
 
+![Wildlife Pic](https://www.andbeyond.com/wp-content/uploads/sites/5/sri-lanka-elephants.jpg)
+
 ## Everything to Lose
 ##### *By Pattie Gonia*
 [WATCH ORIGINAL VIDEO](https://youtu.be/1_A2bweGHTY)
