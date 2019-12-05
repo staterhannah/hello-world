@@ -11,7 +11,7 @@
 3. Pinneapple on Pizza :pizza:
 \*very passionate about this one\*
 
-### Ranking | My Favorite Movies
+Ranking | My Favorite Movies
 ------------ | -------------
 One | The Heathers
 Two | Inglorious Bastards
