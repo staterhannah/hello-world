@@ -1,4 +1,27 @@
-# hello-world
-This is a space for brainstorming and collaboration.
+# **My name is Hannah.**
+*I am a senior at the **University of Northern Iowa** in Cedar Falls, Iowa in @manicsparkle 's class.*
 
-My name is Hannah, and I am a senior studying Communication and Interactive Digital Studies, with focuses in writing and music, at the University of Northern Iowa in Cedar Falls, Iowa.
+### I am studying:
+* Communication
+* Interactive Digital Studies with focuses in Music and Writing
+
+### I am passionate about three things in life.
+1. UNI Dance Marathon and Children's Health :hospital:
+2. Environmental and Wildlife Conservation :elephant:
+3. Pinneapple on Pizza :pizza:
+\*very passionate about this one\*
+
+### As Jane Goodall said:
+>Only if we understand, will we care.
+>Only if we care, will we help.
+>Only if we help shall all be saved.
+
+### My "To Do" List for the Coming Year
+- [x] Sign-Up for Spring Classes
+- [x] Find a Masters Program and Grad School I Like
+- [ ] Survive Until Graduation
+
+## Everything to Lose
+##### *By Pattie Gonia*
+[WATCH ORIGINAL VIDEO](https://youtu.be/1_A2bweGHTY)
+
