@@ -11,6 +11,12 @@
 3. Pinneapple on Pizza :pizza:
 \*very passionate about this one\*
 
+### Ranking | My Favorite Movies
+------------ | -------------
+One | The Heathers
+Two | Inglorious Bastards
+Three | Wall-E
+
 ### As Jane Goodall said:
 >Only if we understand, will we care.
 >Only if we care, will we help.
