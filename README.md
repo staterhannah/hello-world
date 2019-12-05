@@ -25,3 +25,11 @@
 ##### *By Pattie Gonia*
 [WATCH ORIGINAL VIDEO](https://youtu.be/1_A2bweGHTY)
 
+
+
+### Here is some code from one of my previous websites:
+```javascript
+function test() {
+ console.log("look ma’, no spaces");
+}
+```
